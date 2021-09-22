@@ -166,3 +166,4 @@ with 대장 택현, 민수1 영광, 에그머니 완숙, 민수2 신희
 * [연관값 없이 enum 비교하기 - 패턴매칭](https://forums.swift.org/t/comparing-enums-without-their-associated-values/18944)
 * [enum RawPresentable, 메모리 구조](https://jcsoohwancho.github.io/2019-08-19-enum-%EB%8D%94-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-CaseIterable,-RawPresentable,-%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B5%AC%EC%A1%B0/)
 * [프로퍼티 감시자는 init에서 호출되지 않는다.](https://docs.swift.org/swift-book/LanguageGuide/Properties.html#//apple_ref/doc/uid/TP40014097-CH14-XID_368)
+* [RxSwift의 개념과 MVVM 예시](https://wansook0316.github.io/dv/ios/2021/09/22/iOS-RxSwift-01-Concept.html)
