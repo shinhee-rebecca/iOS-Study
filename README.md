@@ -121,9 +121,9 @@ with 대장 택현, 민수1 영광, 에그머니 완숙, 민수2 신희
 * 사용자의 터치(이벤트)로부터 뷰로 보여지기 까지의 과정
 * Gesture Recognizer의 정체
 * 런루프의 정체
-    - 210926 완숙
+    - 210926 완숙 [RunLoop란?](https://wansook0316.github.io/dv/ios/2021/09/19/iOS-Exprience-14-iOS-RunLoop.html)
 * UIApplication의 정체
-    - 210926 완숙
+    - 210926 완숙 [UIApplication이란?](https://wansook0316.github.io/dv/ios/2021/09/19/iOS-Exprience-15-iOS-UIApplication.html)
 * Hittest (공식문서 내용이 들어가야 할듯?)
 * UIEvent의 종류
     - 210926 택현
