@@ -158,6 +158,17 @@ with 대장 택현, 민수1 영광, 에그머니 완숙, 민수2 신희
 - Adapter
 
 
+# 필수 공부
+
+* 데이터 베이스 기초 용어
+* LRU 캐시 재구현
+* LinkedList 구현
+* 트리 구현
+* 이진 탐색 트리 구현
+* HTTP 공부
+* 딕셔너리(hashMap) 구현
+* OS 스케쥴링
+
 # 추가공부
 
 * LocalizedString
