@@ -126,9 +126,9 @@ with 대장 택현, 민수1 영광, 에그머니 완숙, 민수2 신희
     - 210926 완숙 [UIApplication이란?](https://wansook0316.github.io/dv/ios/2021/09/19/iOS-Exprience-15-iOS-UIApplication.html)
 * Hittest (공식문서 내용이 들어가야 할듯?)
 * UIEvent의 종류
-    - 210926 택현
+    - 210926 택현 [iOS에서 Event를 처리하는 방법](https://wandering-office-654.notion.site/iOS-Event-29db093108ce4c49bbdf17f6d14a7e6b)
 * Responder Chain - isUserInteractionEnabled
-    - 210926 택현
+    - 210926 택현 [iOS에서 Event를 처리하는 방법](https://wandering-office-654.notion.site/iOS-Event-29db093108ce4c49bbdf17f6d14a7e6b)
 
 
 ### 2nd
