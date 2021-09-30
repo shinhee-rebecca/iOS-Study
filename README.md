@@ -77,6 +77,7 @@ with 대장 택현, 민수1 영광, 에그머니 완숙, 민수2 신희
 - 다형성
 - Designated initializer, Convernience Initializer
 - 2단계 초기화
+  - 추가하기 완식
 - Delegate 구조
 - 타입 변환, loose Coupling 지향
 
