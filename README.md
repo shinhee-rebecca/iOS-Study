@@ -149,13 +149,14 @@ with 대장 택현, 민수1 영광, 에그머니 완숙, 민수2 신희
 - Archieve (View, Data)
 - Core Graphics, UIKit
 - 앱 라이프사이클(Scene-based)과 UserDefaults
+    - 211003 영광
 - Bundles
 - UITableView 
     -> Plain, Grouped, Static, Dynamic
     -> ReusableQueue
     -> BatchUpdate
     -> 데이터 소스와 델리게이트 관계
-    - 210926 영광
+    - 210926 영광 [TextFiled ](https://poisonf2.tistory.com/95)
 - Adapter
 
 ## 5주차
