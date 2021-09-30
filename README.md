@@ -142,7 +142,6 @@ with 대장 택현, 민수1 영광, 에그머니 완숙, 민수2 신희
 * Property Wrapper
 * UserDefaults의 활용처, 동작방식
 * Presenter, Usecase?
-    - 210926 신희
 
 ### 3rd
 
