@@ -100,7 +100,7 @@ with 대장 택현, 민수1 영광, 에그머니 완숙, 민수2 신희
 - encapsulation
 - polymorphism
 - 객체설계원칙-SOLID
-  - 210903 
+  - 211003 완식
 - cohesion , Coupling
 - dependency
 
@@ -135,7 +135,7 @@ with 대장 택현, 민수1 영광, 에그머니 완숙, 민수2 신희
 
 ### 2nd
 * MVC, MVVM
-    - 210926 신희
+    - 211003 신희
 * KeyValue-Observer (KVO)
 * NotificationCenter 동작 흐름
 * Combine이란?, Reactive programming??
