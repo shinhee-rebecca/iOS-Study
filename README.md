@@ -157,6 +157,10 @@ with 대장 택현, 민수1 영광, 에그머니 완숙, 민수2 신희
     - 210926 영광
 - Adapter
 
+## 5주차
+
+- UseCase Pattern
+- Repository Pattern
 
 # 필수 공부
 
