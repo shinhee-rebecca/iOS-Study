@@ -156,7 +156,7 @@ with 대장 택현, 민수1 영광, 에그머니 완숙, 민수2 신희
     -> ReusableQueue
     -> BatchUpdate
     -> 데이터 소스와 델리게이트 관계
-    - 210926 영광 [TextFiled ](https://poisonf2.tistory.com/95)
+    - 210926 영광 [TextFiled Document 보기 ~](https://poisonf2.tistory.com/95)
 - Adapter
 
 ## 5주차
