@@ -167,7 +167,9 @@ with 대장 택현, 민수1 영광, 에그머니 완숙, 민수2 신희
 ### 2nd
 
 - CollectionView
-  - 211003 택현
+  - Flow vs Custom Layout
+  - UICollectionViewCompositionalLayout 
+  - DiffableDataSource
 
 ### 3rd
 
