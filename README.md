@@ -162,7 +162,10 @@ with 대장 택현, 민수1 영광, 에그머니 완숙, 민수2 신희
 ## 5주차
 
 ### 1st
-
+- CoreGraphics, UIKIT과의 관계
+- Bitmap 이란?
+- 프로토콜 지향 프로그래밍
+- 
 
 ### 2nd
 
@@ -173,8 +176,22 @@ with 대장 택현, 민수1 영광, 에그머니 완숙, 민수2 신희
 
 ### 3rd
 
+- 고급 클로저의 사용법
+  - 클로저 안에 클로저? 어떤 상황에서 쓰면 좋을까?
 
 
+## 6주차
+
+### 1st
+
+- Alamofire
+- KingFisher
+- Static, Dynamic Framework
+- GCD, OperationQueue
+- ScrollView
+- 캐시의 사용처(모바일 상황에 대하여)
+- Reachability
+- URLSession
 
 # 필수 공부
 
