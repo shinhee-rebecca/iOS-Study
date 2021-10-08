@@ -215,3 +215,6 @@ with 대장 택현, 민수1 영광, 에그머니 완숙, 민수2 신희
 * [RxSwift의 개념과 MVVM 예시](https://wansook0316.github.io/dv/ios/2021/09/22/iOS-RxSwift-01-Concept.html)
 * UseCase Pattern
 * Repository Pattern
+
+# 읽으면 좋을 글
+* [실행가능한 iOS 아키텍처에 관하여](https://medium.com/flawless-app-stories/the-only-viable-ios-architecture-c42f7b4c845d
