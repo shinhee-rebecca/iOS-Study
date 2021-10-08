@@ -218,3 +218,5 @@ with 대장 택현, 민수1 영광, 에그머니 완숙, 민수2 신희
 
 # 읽으면 좋을 글
 * [실행가능한 iOS 아키텍처에 관하여](https://medium.com/flawless-app-stories/the-only-viable-ios-architecture-c42f7b4c845d
+* [MVVM 시작하기](https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios)
+* [VIPER 시작하기](https://www.raywenderlich.com/8440907-getting-started-with-the-viper-architecture-pattern)
