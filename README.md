@@ -135,7 +135,7 @@ with 대장 택현, 민수1 영광, 에그머니 완숙, 민수2 신희
 
 ### 2nd
 * MVC, MVVM
-    - 211003 신희
+    - 211003 신희 [MVC, MVP, MVVM](https://blog.naver.com/PostView.naver?blogId=sunflower-shin&logNo=222525370702&categoryNo=20&parentCategoryNo=&from=thumbnailList)
 * KeyValue-Observer (KVO)
 * NotificationCenter 동작 흐름
 * Combine이란?, Reactive programming??
